@@ -6,3 +6,6 @@ What I found interesting what not the fact that using github copilot was benefic
 
 ## Comment from Manny Soto Ruiz
 What I found interesting was that copilot has the ability to adapt to the programmer’s style of coding to offer solutions and suggest lines of code through its machine learning software. This bridges the gap between computers and humans.
+
+## Comment from Kevin Gong
+I found this article to be very interesting because it highlights a positive use case of AI in coding, where AI and humans work together whereas most articles talk about how AI will eventually overtake humans and render us obsolete, pitting AI and humans against each other.
